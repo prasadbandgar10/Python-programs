@@ -1,0 +1,10 @@
+s1=int(input("Enter the marks for student 1: "))
+s2=int(input("Enter the marks for student 2: "))
+s3=int(input("Enter the marks for student 3: "))
+s4=int(input("Enter the marks for student 4: "))
+s5=int(input("Enter the marks for student 5: "))
+s6=int(input("Enter the marks for student 6: "))
+marks=[s1 ,s2 ,s3 ,s4 ,s5 ,s6]
+print(marks)
+marks.sort()
+print(marks)
